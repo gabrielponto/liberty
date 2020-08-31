@@ -1,2 +1,2 @@
 # Liberty
-A system to allow programmers focus on main requirements of system.
+A system to allow programmers focus on main requirements when building applications.
